@@ -1,4 +1,4 @@
-<em>Machine-Learning-in-Health-care-Sector</em>
+<b>Machine-Learning-in-Health-care-Sector</b>
 <br>
 <i>KIIT University, Bhubaneswar Feb 2019 - present</i>
 <ul>
